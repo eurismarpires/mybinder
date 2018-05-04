@@ -2,7 +2,7 @@ matplotlib
 pandas
 numpy
 requests
-BeautifulSoup
+beautifulsoup4
 tensorflow
 keras
 seaborn
